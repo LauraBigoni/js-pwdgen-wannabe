@@ -24,3 +24,5 @@ Abbellire la pagina dal punto di vista grafico a piacimento!
 
 
 // Chiedo il nome all'utente
+const userName = prompt('Come ti chiami?');
+console.log(userName);
