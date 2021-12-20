@@ -5,3 +5,15 @@
     padding-top: 200px;
     padding-bottom: 200px;
 }
+
+.neontext {
+    text-shadow:
+    0 0 2px #fff,
+    0 0 4px #fff,
+    0 0 8px #fff,
+    0 0 10px #144efc,
+    0 0 12px #144efc,
+    0 0 14px #144efc,
+    0 0 16px #144efc,
+    0 0 18px #144efc;
+}
