@@ -30,3 +30,7 @@ console.log(userName);
 // Chiedo il cognome 
 const userSurname = prompt("Qual'è il tuo cognome?");
 console.log(userSurname);
+
+// Chiedo il colore preferito
+const userFavcolor = prompt("Qual'è il tuo colore preferito?");
+console.log(userFavcolor);
